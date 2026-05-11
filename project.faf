@@ -111,3 +111,9 @@ turbo_cat_intelligence: 180
 stats:
   last_auto_time: 0.3
   times_run: 1
+
+# About Repo declaration — non-app, displays source's score
+app_type: about
+about:
+  represents: Wolfe-Jam/FAF-Voice
+  source_score: 100
