@@ -1,0 +1,7 @@
+# Token server + Agent worker
+livekit-agents[xai]~=1.3.10
+livekit-api>=0.8.1
+python-dotenv
+flask
+flask-cors
+gunicorn
